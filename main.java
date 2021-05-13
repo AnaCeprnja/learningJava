@@ -12,3 +12,11 @@ public class Main {
 // printing something 3 times
 
 // output is hello world hello world hello world
+
+public class MyClass {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World");
+    }
+}
+// like console.log^^
