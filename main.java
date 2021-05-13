@@ -8,4 +8,7 @@ public class Main {
         myMethod();
         myMethod();
     }
-} // printing something 3 times
+}
+// printing something 3 times
+
+// output is hello world hello world hello world
