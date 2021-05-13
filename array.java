@@ -11,3 +11,5 @@ public class Color {
         System.out.println(color);
     }
 }
+
+// error?
